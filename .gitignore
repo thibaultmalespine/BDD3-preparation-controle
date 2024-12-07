@@ -1,3 +1,4 @@
 mysql/CC2/bin
+mysql/CC2/.vscode
 mysql/docker/*
 mongo/docker/*
