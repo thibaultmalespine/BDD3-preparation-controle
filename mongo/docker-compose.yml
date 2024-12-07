@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+    mongodb:
+        container_name: mongodb
+        image: "mongo"
+        volumes:
+            - ./docker:/data/db
+       

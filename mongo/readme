@@ -1,0 +1,3 @@
+ mongoimport -d pokemon -c pokemons --jsonArray < /data/db/pokemon.json
+
+ ci-dessus la commande pour importer les données dans la base de données mongo, une fois dans le bash du docker, avant de rentrer dans le shell mongo
